@@ -1,0 +1,16 @@
+
+\
+java:S1854[":Remove this useless assignment to local variable "future".(¼Şøÿÿÿÿ8¡Ü”ˆ/
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(³ĞƒÑşÿÿÿÿ8çø”ˆ/
+M
+java:S1481["+Remove this unused "future" local variable.(¼Şøÿÿÿÿ8¡Ü”ˆ/
+]	java:S125O"<This block of commented-out lines of code should be removed.(§µâşÿÿÿÿ8Å»¯”ˆ/
+?
+java:S2438[""metialThread" is a "Thread".(¼Şøÿÿÿÿ8¾†¸ˆ/
+Q
+java:S3740["/Provide the parametrized type for this generic.(¼Şøÿÿÿÿ8¡Ü”ˆ/
+J
+java:S1604:"(Make this anonymous inner class a lambda(ÛÀõ“ıÿÿÿÿ8çø”ˆ/
+
+java:S3008"_Rename this field "THREAD_POOL_EXECUTOR" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ßÊúÿÿÿÿ8çø”ˆ/
+]	java:S125]"<This block of commented-out lines of code should be removed.(ˆû„¢ÿÿÿÿÿ8¡Ü”ˆ/

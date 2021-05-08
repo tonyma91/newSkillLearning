@@ -1,0 +1,7 @@
+
+L
+java:S2692S"10 is a valid index, but is ignored by this check.(†è »úÿÿÿÿ
+s	java:S135%"YReduce the total number of break and continue statements in this loop to use at most one.(˜ïˆžÿÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ó‡ôíûÿÿÿÿ
+^
+java:S2259y"CA "NullPointerException" could be thrown; "keyIn" is nullable here.(­›Ôúÿÿÿÿÿ

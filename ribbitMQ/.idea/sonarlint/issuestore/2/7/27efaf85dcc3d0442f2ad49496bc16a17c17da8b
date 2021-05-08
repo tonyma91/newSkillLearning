@@ -1,0 +1,10 @@
+
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ôùÒ¼
+e
+java:S2095"HUse try-with-resources or close this "Connection" in a "finally" clause.(“…§Ú8“‡¸ˆ/
+g
+java:S2095"EUse try-with-resources or close this "Channel" in a "finally" clause.(‡î‰´ûÿÿÿÿ8“‡¸ˆ/
+g
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(å»»…ûÿÿÿÿ8“‡¸ˆ/
+[
+java:S4719"9Replace charset name argument with StandardCharsets.UTF_8(åıÙÆûÿÿÿÿ8“‡¸ˆ/

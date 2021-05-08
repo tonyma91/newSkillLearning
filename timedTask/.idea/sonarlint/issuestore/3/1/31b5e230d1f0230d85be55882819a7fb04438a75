@@ -1,0 +1,14 @@
+
+E
+java:S1604*"(Make this anonymous inner class a lambda(œ‰ö8¶ÒÈ…/
+J
+java:S16041"(Make this anonymous inner class a lambda(Ş¾ğ•şÿÿÿÿ8¶ÒÈ…/
+u
+java:S1602E"SRemove useless curly braces around statement and then remove useless return keyword(šë³Šúÿÿÿÿ8¶ÒÈ…/
+X	java:S125"<This block of commented-out lines of code should be removed.(İĞØÓ8»ôÛÍ…/
+E
+java:S16046"(Make this anonymous inner class a lambda(ÎÙ’8§˜Ô’ˆ/
+†
+java:S1488;"dImmediately return this expression instead of assigning it to the temporary variable "nextExecDate".(÷ØÅ¾úÿÿÿÿ8¶ÒÈ…/
+N
+java:S1602C",Remove useless curly braces around statement(‘Äúÿÿÿÿ8¶ÒÈ…/

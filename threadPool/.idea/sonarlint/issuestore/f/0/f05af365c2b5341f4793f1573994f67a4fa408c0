@@ -1,0 +1,4 @@
+
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(³ĞƒÑşÿÿÿÿ
+k
+java:S3014"IRemove this use of "ThreadGroup". Prefer the use of "ThreadPoolExecutor".(‹©Öıÿÿÿÿ8¥©¬¤„/

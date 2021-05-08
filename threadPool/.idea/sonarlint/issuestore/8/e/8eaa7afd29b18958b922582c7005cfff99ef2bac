@@ -1,0 +1,15 @@
+
+]	java:S125/"<This block of commented-out lines of code should be removed.(ˆû„¢ÿÿÿÿÿ8öûÒ¹ˆ/
+X	java:S125"<This block of commented-out lines of code should be removed.(Îª”Œ8ª«Õ¹ˆ/
+?
+java:S2438-""metialThread" is a "Thread".(‘¶ëÚûÿÿÿÿ8öûÒ¹ˆ/
+E
+java:S1604"(Make this anonymous inner class a lambda(¿ÂËó8öûÒ¹ˆ/
+\
+java:S1854-":Remove this useless assignment to local variable "future".(‘¶ëÚûÿÿÿÿ8öûÒ¹ˆ/
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(³ĞƒÑşÿÿÿÿ8öûÒ¹ˆ/
+]	java:S125!"<This block of commented-out lines of code should be removed.(§µâşÿÿÿÿ8öûÒ¹ˆ/
+Q
+java:S3740-"/Provide the parametrized type for this generic.(‘¶ëÚûÿÿÿÿ8öûÒ¹ˆ/
+M
+java:S1481-"+Remove this unused "future" local variable.(‘¶ëÚûÿÿÿÿ8öûÒ¹ˆ/

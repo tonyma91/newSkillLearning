@@ -1,0 +1,35 @@
+
+]	java:S125>"<This block of commented-out lines of code should be removed.(€Äà˜øÿÿÿÿ8þÊíÀˆ/
+P
+java:S1128	".Remove this unused import 'lx.jave.AudioInfo'.(ã¦¶óùÿÿÿÿ8ïÝÈ¿ˆ/
+]	java:S125D"<This block of commented-out lines of code should be removed.(€Äà˜øÿÿÿÿ8ÒóíÀˆ/
+Y
+java:S1128"7Remove this unused import 'lx.jave.EncodingAttributes'.(×ÊŸžÿÿÿÿÿ8Ð÷Ù¹ˆ/
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(³ÐƒÑþÿÿÿÿ
+K
+java:S1128".Remove this unused import 'lx.jave.VideoInfo'.(Ýªò‹8ïÝÈ¿ˆ/
+U
+java:S1128"3Remove this unused import 'lx.jave.MultimediaInfo'.(œÓÒÝüÿÿÿÿ8ïÝÈ¿ˆ/
+]	java:S125Q"<This block of commented-out lines of code should be removed.(éØ»Úûÿÿÿÿ8´çèÀˆ/
+W
+java:S1128"5Remove this unused import 'lx.jave.EncoderException'.(Æ»üúÿÿÿÿÿ8´çèÀˆ/
+[
+java:S1128"9Remove this unused import 'lx.jave.InputFormatException'.(º¤ÁÄúÿÿÿÿ8´çèÀˆ/
+I
+java:S1128
+",Remove this unused import 'lx.jave.Encoder'.(ƒŠý8ïÝÈ¿ˆ/
+]	java:S125L"<This block of commented-out lines of code should be removed.(ßÀïôüÿÿÿÿ8´çèÀˆ/
+V
+java:S1128"4Remove this unused import 'lx.jave.AudioAttributes'.(ï¥ßðüÿÿÿÿ8Ð÷Ù¹ˆ/
+F
+java:S1128")Remove this unused import 'java.io.File'.(†Ð¥Å8ïÝÈ¿ˆ/
+j
+java:S1128"MRemove this unused import 'com.laoma.xianChengChi.test.onLineTest.VideoUtil'.(¢‘ÕŸ8¥üÌ¿ˆ/
+K
+java:S1128".Remove this unused import 'lx.jave.VideoSize'.(íàü¢8ïÝÈ¿ˆ/
+^
+java:S3518"CMake sure this expression can't be zero before doing this division.(³Úö 8§êóÀˆ/
+P
+java:S1854"5Remove this useless assignment to local variable "i".(³Úö 8§êóÀˆ/
+A
+java:S1481"&Remove this unused "i" local variable.(³Úö 8§êóÀˆ/
